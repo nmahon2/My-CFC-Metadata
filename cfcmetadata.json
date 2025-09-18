@@ -362,12 +362,12 @@
                     "rival": [
                         "TAMU",
                         "ARK",
-                        "BAMA"
+                        "TUL"
                     ],
                     "rivalryNames": {
                         "TAMU": "Sabine Showdown",
                         "LSU": "Battle for the Golden Boot",
-                        "BAMA": "First Saturday in November"
+                        "TUL": "Battle for the Rag"
                     },
                     "prestige": "82",
                     "hexColor": "#461D7C"
@@ -4216,9 +4216,3 @@
         "TEST BOWL"
     ]
 }
-
-
-
-
-
-
