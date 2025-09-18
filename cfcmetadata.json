@@ -7,7 +7,7 @@
         "MWC": "PAC",
         "AAC": "GWC"
     },
-    "baseYear": 2024,
+    "baseYear": 2025,
     "relegationRoutes": {
         "SEC": "SUN",
         "B10": "MAC",
@@ -67,15 +67,17 @@
                         "ratTalent": "91",
                         "baselinePrestige": "95",
                         "name": "Kalen DeBoer",
-                        "contractYear": "1"
+                        "contractYear": "0"
                     },
                     "rival": [
                         "AUB",
                         "TENN"
+                        "LSU"
                     ],
                     "rivalryNames": {
                         "AUB": "Iron Bowl",
                         "TENN": "Third Saturday in October"
+                        "LSU": "First Saturday in November"
                     },
                     "prestige": "84",
                     "hexColor": "#9E1B32"
@@ -322,50 +324,50 @@
                         "age": "38",
                         "cumulativePrestige": "0",
                         "homeState": "Virginia",
-                        "ratPot": "79",
-                        "hometown": "Chester",
+                        "ratPot": "80",
+                        "hometown": "Richmond",
                         "ratTalent": "60",
-                        "baselinePrestige": "68",
-                        "coachingAbility": "68",
+                        "baselinePrestige": "70",
+                        "coachingAbility": "69",
                         "name": "Joe Sloan",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
-                        "contractLength": "5",
+                        "contractLength": "3",
                         "startYear": "2024",
                         "age": "43",
                         "cumulativePrestige": "0",
                         "homeState": "Texas",
-                        "ratPot": "70",
+                        "ratPot": "85",
                         "hometown": "Houston",
                         "ratTalent": "93",
-                        "baselinePrestige": "70",
-                        "coachingAbility": "76",
+                        "baselinePrestige": "80",
+                        "coachingAbility": "85",
                         "name": "Blake Baker",
                         "contractYear": "0"
                     },
                     "headCoach": {
-                        "contractLength": "8",
+                        "contractLength": "6",
                         "startYear": "2024",
                         "age": "63",
-                        "ratOff": "80",
+                        "ratOff": "85",
                         "cumulativePrestige": "0",
                         "ratDef": "75",
-                        "homeState": "Massachusetts",
-                        "ratPot": "70",
-                        "hometown": "Everett",
-                        "ratTalent": "75",
+                        "homeState": "Illinois",
+                        "ratPot": "75",
+                        "hometown": "Lindenhurst",
+                        "ratTalent": "80",
                         "baselinePrestige": "80",
                         "name": "Brian Kelly",
                         "contractYear": "0"
                     },
                     "rival": [
-                        "TAMU",
+                        "BAMA",
                         "ARK",
                         "MISS"
                     ],
                     "rivalryNames": {
-                        "TAMU": "Sabine Showdown",
+                        "BAMA": "First Saturday in November",
                         "ARK": "Battle for the Golden Boot",
                         "MISS": "Magnolia Bowl"
                     },
@@ -562,14 +564,12 @@
                         "contractYear": "0"
                     },
                     "rival": [
-                        "LSU",
+                        "ARK",
                         "TEX"
-                        "ARK"
                     ],
                     "rivalryNames": {
-                        "LSU": "Sabine Showdown",
+                        "ARK": "Southwest Classic",
                         "TEX": "Lone Star Showdown"
-                        "ARK": "Southwest Classic"
                     },
                     "prestige": "78",
                     "hexColor": "#500000"
@@ -966,7 +966,7 @@
                         "ratPot": "85",
                         "hometown": "Artesia",
                         "ratTalent": "64",
-                        "baselinePrestige": "85",
+                        "baselinePrestige": "90",
                         "name": "Ryan Day",
                         "contractYear": "0"
                     },
@@ -2875,7 +2875,7 @@
                         "baselinePrestige": "45",
                         "coachingAbility": "63",
                         "name": "Barry Lunney Jr.",
-                        "contractYear": "1"
+                        "contractYear": "0"
                     },
                     "defCoordinator": {
                         "contractLength": "3",
@@ -4220,4 +4220,3 @@
         "TEST BOWL"
     ]
 }
-
