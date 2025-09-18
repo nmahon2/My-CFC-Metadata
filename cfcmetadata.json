@@ -319,7 +319,7 @@
                     "offCoordinator": {
                         "contractLength": "3",
                         "startYear": "2022",
-                        "age": "52",
+                        "age": "38",
                         "cumulativePrestige": "0",
                         "homeState": "South Dakota",
                         "ratPot": "79",
@@ -327,7 +327,7 @@
                         "ratTalent": "60",
                         "baselinePrestige": "75",
                         "coachingAbility": "69",
-                        "name": "Mike Denbrock",
+                        "name": "Joe Sloan",
                         "contractYear": "0"
                     },
                     "defCoordinator": {
@@ -335,27 +335,27 @@
                         "startYear": "2022",
                         "age": "39",
                         "cumulativePrestige": "0",
-                        "homeState": "Nebraska",
-                        "ratPot": "61",
-                        "hometown": "Elba",
+                        "homeState": "Texas",
+                        "ratPot": "85",
+                        "hometown": "Houston",
                         "ratTalent": "93",
-                        "baselinePrestige": "75",
-                        "coachingAbility": "68",
-                        "name": "Matt House",
+                        "baselinePrestige": "80",
+                        "coachingAbility": "80",
+                        "name": "Blake Baker",
                         "contractYear": "0"
                     },
                     "headCoach": {
                         "contractLength": "6",
                         "startYear": "2022",
                         "age": "51",
-                        "ratOff": "73",
+                        "ratOff": "85",
                         "cumulativePrestige": "0",
-                        "ratDef": "73",
+                        "ratDef": "75",
                         "homeState": "Illinois",
-                        "ratPot": "60",
+                        "ratPot": "80",
                         "hometown": "Lindenhurst",
-                        "ratTalent": "58",
-                        "baselinePrestige": "75",
+                        "ratTalent": "80",
+                        "baselinePrestige": "80",
                         "name": "Brian Kelly",
                         "contractYear": "0"
                     },
@@ -4216,5 +4216,6 @@
         "TEST BOWL"
     ]
 }
+
 
 
