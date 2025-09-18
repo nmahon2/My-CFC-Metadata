@@ -72,10 +72,12 @@
                     "rival": [
                         "AUB",
                         "TENN"
+                        "LSU"
                     ],
                     "rivalryNames": {
                         "AUB": "Iron Bowl",
                         "TENN": "Third Saturday in October"
+                        "LSU": "First Saturday in November"
                     },
                     "prestige": "84",
                     "hexColor": "#9E1B32"
@@ -362,12 +364,12 @@
                     "rival": [
                         "TAMU",
                         "ARK",
-                        "TUL"
+                        "BAMA"
                     ],
                     "rivalryNames": {
                         "TAMU": "Sabine Showdown",
                         "LSU": "Battle for the Golden Boot",
-                        "TUL": "Battle for the Rag"
+                        "BAMA": "First Saturday in November"
                     },
                     "prestige": "82",
                     "hexColor": "#461D7C"
@@ -4216,6 +4218,7 @@
         "TEST BOWL"
     ]
 }
+
 
 
 
