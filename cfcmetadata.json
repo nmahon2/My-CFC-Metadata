@@ -72,12 +72,10 @@
                     "rival": [
                         "AUB",
                         "TENN"
-                        "LSU"
                     ],
                     "rivalryNames": {
                         "AUB": "Iron Bowl",
                         "TENN": "Third Saturday in October"
-                        "LSU": "First Saturday in November"
                     },
                     "prestige": "84",
                     "hexColor": "#9E1B32"
@@ -4218,6 +4216,7 @@
         "TEST BOWL"
     ]
 }
+
 
 
 
