@@ -129,11 +129,11 @@
                     },
                     "rival": [
                         "LSU",
-                        "TEX"
+                        "TAMU"
                     ],
                     "rivalryNames": {
                         "LSU": "Battle for the Golden Boot",
-                        "TEX": "Southwest Classic"
+                        "TAMU": "Southwest Classic"
                     },
                     "prestige": "57",
                     "hexColor": "#9D2235"
@@ -4216,6 +4216,7 @@
         "TEST BOWL"
     ]
 }
+
 
 
 
